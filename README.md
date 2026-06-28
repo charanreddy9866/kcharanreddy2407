@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kcharanreddy2407/kcharanreddy2407/main/Profile.png" width="180" style="border-radius:50%;">
-</p>
 
 
 
