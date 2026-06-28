@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kcharanreddy2407/kcharanreddy2407/main/profile.jpg" width="180" style="border-radius:50%;">
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Charan Reddy Katta</h1>
 <h3 align="center">Database Assistant | Software Developer | Data Analyst</h3>
 
